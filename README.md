@@ -101,6 +101,3 @@ The solution is encapsulated in the `PickList` class.
 ### 3. Workforce Re-Engineering
 * **Observation:** P4 (6:00 AM) and P5 (7:00 AM) are high-risk failure points due to low staff.
 * **Recommendation:** A shift modification is required to ramp up workforce earlier (starting 6 AM instead of 8 AM).
-
----
-*Generated for the Warehouse Optimization Hackathon*
